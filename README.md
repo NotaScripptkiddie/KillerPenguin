@@ -137,4 +137,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Made with ❤️ by the KillerPenguin community
+Made with ❤️ by the NotaScriptkiddie
